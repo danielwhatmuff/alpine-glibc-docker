@@ -18,6 +18,7 @@
 - Clone the repo
 ```bash
 git clone https://github.com/danielwhatmuff/alpine-glibc-docker.git
+```
 - Build the image using docker
 ```bash
 $ docker build -t glibc .
